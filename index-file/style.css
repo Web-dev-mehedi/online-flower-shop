@@ -168,3 +168,44 @@ margin-top: 30px;
  
 
  /* our-features-section-style-ends-here */
+
+
+ /* our-service-section-style-start-here */
+
+ .our-service-section{
+    max-width:1286px;
+    margin: 0 auto;
+    padding:0px 112px 100px;
+    
+ }
+ .our-service-wrap
+ {  
+    width:100%;
+    padding: 85px 100px;
+     display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    gap: 50px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+ }
+
+ .delivary{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 26px;
+ }
+
+ .delivary p{
+    color: rgba(39, 39, 39, 0.8);
+font-family: Lato;
+font-size: 18px;
+font-weight: 600;
+line-height: 30px;
+text-align: center;
+
+ }
+
+  /* our-service-section-style-ends-here */
